@@ -1,0 +1,13 @@
+C:\Users\Usuario\Desktop\SISTEMA CLASE\SistemaNew\Sistema Venta\Sistema Venta\bin\Debug\Sistema Venta.exe.config
+C:\Users\Usuario\Desktop\SISTEMA CLASE\SistemaNew\Sistema Venta\Sistema Venta\bin\Debug\Sistema Venta.exe
+C:\Users\Usuario\Desktop\SISTEMA CLASE\SistemaNew\Sistema Venta\Sistema Venta\bin\Debug\Sistema Venta.pdb
+C:\Users\Usuario\Desktop\SISTEMA CLASE\SistemaNew\Sistema Venta\Sistema Venta\obj\Debug\Sistema Venta.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\SISTEMA CLASE\SistemaNew\Sistema Venta\Sistema Venta\obj\Debug\Sistema_Venta.Form1.resources
+C:\Users\Usuario\Desktop\SISTEMA CLASE\SistemaNew\Sistema Venta\Sistema Venta\obj\Debug\Sistema_Venta.FrmClientes.resources
+C:\Users\Usuario\Desktop\SISTEMA CLASE\SistemaNew\Sistema Venta\Sistema Venta\obj\Debug\Sistema_Venta.FrmEmpleados.resources
+C:\Users\Usuario\Desktop\SISTEMA CLASE\SistemaNew\Sistema Venta\Sistema Venta\obj\Debug\Sistema_Venta.FrmProductos.resources
+C:\Users\Usuario\Desktop\SISTEMA CLASE\SistemaNew\Sistema Venta\Sistema Venta\obj\Debug\Sistema_Venta.Properties.Resources.resources
+C:\Users\Usuario\Desktop\SISTEMA CLASE\SistemaNew\Sistema Venta\Sistema Venta\obj\Debug\Sistema Venta.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\SISTEMA CLASE\SistemaNew\Sistema Venta\Sistema Venta\obj\Debug\Sistema Venta.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\SISTEMA CLASE\SistemaNew\Sistema Venta\Sistema Venta\obj\Debug\Sistema Venta.exe
+C:\Users\Usuario\Desktop\SISTEMA CLASE\SistemaNew\Sistema Venta\Sistema Venta\obj\Debug\Sistema Venta.pdb
