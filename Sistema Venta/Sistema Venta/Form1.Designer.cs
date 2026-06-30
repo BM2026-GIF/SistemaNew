@@ -47,7 +47,7 @@
             this.eMPLEADOSToolStripMenuItem});
             this.menuStrip1.Location = new System.Drawing.Point(0, 0);
             this.menuStrip1.Name = "menuStrip1";
-            this.menuStrip1.Size = new System.Drawing.Size(1309, 28);
+            this.menuStrip1.Size = new System.Drawing.Size(1573, 30);
             this.menuStrip1.TabIndex = 0;
             this.menuStrip1.Text = "menuStrip1";
             // 
@@ -55,14 +55,14 @@
             // 
             this.iNICIOToolStripMenuItem.BackColor = System.Drawing.Color.Salmon;
             this.iNICIOToolStripMenuItem.Name = "iNICIOToolStripMenuItem";
-            this.iNICIOToolStripMenuItem.Size = new System.Drawing.Size(66, 24);
+            this.iNICIOToolStripMenuItem.Size = new System.Drawing.Size(66, 26);
             this.iNICIOToolStripMenuItem.Text = "INICIO";
             // 
             // cLIENTESToolStripMenuItem
             // 
             this.cLIENTESToolStripMenuItem.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(192)))), ((int)(((byte)(0)))));
             this.cLIENTESToolStripMenuItem.Name = "cLIENTESToolStripMenuItem";
-            this.cLIENTESToolStripMenuItem.Size = new System.Drawing.Size(90, 24);
+            this.cLIENTESToolStripMenuItem.Size = new System.Drawing.Size(90, 26);
             this.cLIENTESToolStripMenuItem.Text = "CLIENTES ";
             this.cLIENTESToolStripMenuItem.Click += new System.EventHandler(this.cLIENTESToolStripMenuItem_Click);
             // 
@@ -70,7 +70,7 @@
             // 
             this.pRODUCTOSToolStripMenuItem.BackColor = System.Drawing.Color.Fuchsia;
             this.pRODUCTOSToolStripMenuItem.Name = "pRODUCTOSToolStripMenuItem";
-            this.pRODUCTOSToolStripMenuItem.Size = new System.Drawing.Size(107, 24);
+            this.pRODUCTOSToolStripMenuItem.Size = new System.Drawing.Size(107, 26);
             this.pRODUCTOSToolStripMenuItem.Text = "PRODUCTOS";
             this.pRODUCTOSToolStripMenuItem.Click += new System.EventHandler(this.pRODUCTOSToolStripMenuItem_Click);
             // 
@@ -78,23 +78,23 @@
             // 
             this.eMPLEADOSToolStripMenuItem.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(128)))), ((int)(((byte)(255)))));
             this.eMPLEADOSToolStripMenuItem.Name = "eMPLEADOSToolStripMenuItem";
-            this.eMPLEADOSToolStripMenuItem.Size = new System.Drawing.Size(107, 24);
+            this.eMPLEADOSToolStripMenuItem.Size = new System.Drawing.Size(107, 26);
             this.eMPLEADOSToolStripMenuItem.Text = "EMPLEADOS";
             this.eMPLEADOSToolStripMenuItem.Click += new System.EventHandler(this.eMPLEADOSToolStripMenuItem_Click);
             // 
             // PanelContenedor
             // 
             this.PanelContenedor.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.PanelContenedor.Location = new System.Drawing.Point(0, 28);
+            this.PanelContenedor.Location = new System.Drawing.Point(0, 30);
             this.PanelContenedor.Name = "PanelContenedor";
-            this.PanelContenedor.Size = new System.Drawing.Size(1309, 635);
+            this.PanelContenedor.Size = new System.Drawing.Size(1573, 633);
             this.PanelContenedor.TabIndex = 1;
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1309, 663);
+            this.ClientSize = new System.Drawing.Size(1573, 663);
             this.Controls.Add(this.PanelContenedor);
             this.Controls.Add(this.menuStrip1);
             this.MainMenuStrip = this.menuStrip1;

@@ -11,3 +11,94 @@ C:\Users\Usuario\Desktop\SISTEMA CLASE\SistemaNew\Sistema Venta\Sistema Venta\ob
 C:\Users\Usuario\Desktop\SISTEMA CLASE\SistemaNew\Sistema Venta\Sistema Venta\obj\Debug\Sistema Venta.csproj.CoreCompileInputs.cache
 C:\Users\Usuario\Desktop\SISTEMA CLASE\SistemaNew\Sistema Venta\Sistema Venta\obj\Debug\Sistema Venta.exe
 C:\Users\Usuario\Desktop\SISTEMA CLASE\SistemaNew\Sistema Venta\Sistema Venta\obj\Debug\Sistema Venta.pdb
+C:\Users\Usuario\Desktop\SISTEMA CLASE\SistemaNew\Sistema Venta\Sistema Venta\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\Usuario\Desktop\SISTEMA CLASE\SistemaNew\Sistema Venta\Sistema Venta\bin\Debug\Google.Protobuf.dll
+C:\Users\Usuario\Desktop\SISTEMA CLASE\SistemaNew\Sistema Venta\Sistema Venta\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Usuario\Desktop\SISTEMA CLASE\SistemaNew\Sistema Venta\Sistema Venta\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Usuario\Desktop\SISTEMA CLASE\SistemaNew\Sistema Venta\Sistema Venta\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Usuario\Desktop\SISTEMA CLASE\SistemaNew\Sistema Venta\Sistema Venta\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Usuario\Desktop\SISTEMA CLASE\SistemaNew\Sistema Venta\Sistema Venta\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Usuario\Desktop\SISTEMA CLASE\SistemaNew\Sistema Venta\Sistema Venta\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Usuario\Desktop\SISTEMA CLASE\SistemaNew\Sistema Venta\Sistema Venta\bin\Debug\MySql.Data.dll
+C:\Users\Usuario\Desktop\SISTEMA CLASE\SistemaNew\Sistema Venta\Sistema Venta\bin\Debug\MySqlConnector.dll
+C:\Users\Usuario\Desktop\SISTEMA CLASE\SistemaNew\Sistema Venta\Sistema Venta\bin\Debug\System.Buffers.dll
+C:\Users\Usuario\Desktop\SISTEMA CLASE\SistemaNew\Sistema Venta\Sistema Venta\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Usuario\Desktop\SISTEMA CLASE\SistemaNew\Sistema Venta\Sistema Venta\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Usuario\Desktop\SISTEMA CLASE\SistemaNew\Sistema Venta\Sistema Venta\bin\Debug\System.IO.Pipelines.dll
+C:\Users\Usuario\Desktop\SISTEMA CLASE\SistemaNew\Sistema Venta\Sistema Venta\bin\Debug\System.Memory.dll
+C:\Users\Usuario\Desktop\SISTEMA CLASE\SistemaNew\Sistema Venta\Sistema Venta\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Usuario\Desktop\SISTEMA CLASE\SistemaNew\Sistema Venta\Sistema Venta\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Usuario\Desktop\SISTEMA CLASE\SistemaNew\Sistema Venta\Sistema Venta\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Usuario\Desktop\SISTEMA CLASE\SistemaNew\Sistema Venta\Sistema Venta\bin\Debug\ZstdSharp.dll
+C:\Users\Usuario\Desktop\SISTEMA CLASE\SistemaNew\Sistema Venta\Sistema Venta\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\Usuario\Desktop\SISTEMA CLASE\SistemaNew\Sistema Venta\Sistema Venta\bin\Debug\Google.Protobuf.pdb
+C:\Users\Usuario\Desktop\SISTEMA CLASE\SistemaNew\Sistema Venta\Sistema Venta\bin\Debug\Google.Protobuf.xml
+C:\Users\Usuario\Desktop\SISTEMA CLASE\SistemaNew\Sistema Venta\Sistema Venta\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Usuario\Desktop\SISTEMA CLASE\SistemaNew\Sistema Venta\Sistema Venta\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Usuario\Desktop\SISTEMA CLASE\SistemaNew\Sistema Venta\Sistema Venta\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Usuario\Desktop\SISTEMA CLASE\SistemaNew\Sistema Venta\Sistema Venta\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Usuario\Desktop\SISTEMA CLASE\SistemaNew\Sistema Venta\Sistema Venta\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Usuario\Desktop\SISTEMA CLASE\SistemaNew\Sistema Venta\Sistema Venta\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Usuario\Desktop\SISTEMA CLASE\SistemaNew\Sistema Venta\Sistema Venta\bin\Debug\MySql.Data.xml
+C:\Users\Usuario\Desktop\SISTEMA CLASE\SistemaNew\Sistema Venta\Sistema Venta\bin\Debug\MySqlConnector.xml
+C:\Users\Usuario\Desktop\SISTEMA CLASE\SistemaNew\Sistema Venta\Sistema Venta\bin\Debug\System.Buffers.xml
+C:\Users\Usuario\Desktop\SISTEMA CLASE\SistemaNew\Sistema Venta\Sistema Venta\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Usuario\Desktop\SISTEMA CLASE\SistemaNew\Sistema Venta\Sistema Venta\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Usuario\Desktop\SISTEMA CLASE\SistemaNew\Sistema Venta\Sistema Venta\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Usuario\Desktop\SISTEMA CLASE\SistemaNew\Sistema Venta\Sistema Venta\bin\Debug\System.Memory.xml
+C:\Users\Usuario\Desktop\SISTEMA CLASE\SistemaNew\Sistema Venta\Sistema Venta\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Usuario\Desktop\SISTEMA CLASE\SistemaNew\Sistema Venta\Sistema Venta\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Usuario\Desktop\SISTEMA CLASE\SistemaNew\Sistema Venta\Sistema Venta\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Usuario\Desktop\SISTEMA CLASE\SistemaNew\Sistema Venta\Sistema Venta\obj\Debug\Sistema .6461BCE9.Up2Date
+C:\Users\Usuario\OneDrive\Escritorio\SISTEMA CLASE\SistemaNew\Sistema Venta\Sistema Venta\bin\Debug\Sistema Venta.exe.config
+C:\Users\Usuario\OneDrive\Escritorio\SISTEMA CLASE\SistemaNew\Sistema Venta\Sistema Venta\bin\Debug\Sistema Venta.exe
+C:\Users\Usuario\OneDrive\Escritorio\SISTEMA CLASE\SistemaNew\Sistema Venta\Sistema Venta\bin\Debug\Sistema Venta.pdb
+C:\Users\Usuario\OneDrive\Escritorio\SISTEMA CLASE\SistemaNew\Sistema Venta\Sistema Venta\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\Usuario\OneDrive\Escritorio\SISTEMA CLASE\SistemaNew\Sistema Venta\Sistema Venta\bin\Debug\Google.Protobuf.dll
+C:\Users\Usuario\OneDrive\Escritorio\SISTEMA CLASE\SistemaNew\Sistema Venta\Sistema Venta\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Usuario\OneDrive\Escritorio\SISTEMA CLASE\SistemaNew\Sistema Venta\Sistema Venta\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Usuario\OneDrive\Escritorio\SISTEMA CLASE\SistemaNew\Sistema Venta\Sistema Venta\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Usuario\OneDrive\Escritorio\SISTEMA CLASE\SistemaNew\Sistema Venta\Sistema Venta\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Usuario\OneDrive\Escritorio\SISTEMA CLASE\SistemaNew\Sistema Venta\Sistema Venta\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Usuario\OneDrive\Escritorio\SISTEMA CLASE\SistemaNew\Sistema Venta\Sistema Venta\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Usuario\OneDrive\Escritorio\SISTEMA CLASE\SistemaNew\Sistema Venta\Sistema Venta\bin\Debug\MySql.Data.dll
+C:\Users\Usuario\OneDrive\Escritorio\SISTEMA CLASE\SistemaNew\Sistema Venta\Sistema Venta\bin\Debug\MySqlConnector.dll
+C:\Users\Usuario\OneDrive\Escritorio\SISTEMA CLASE\SistemaNew\Sistema Venta\Sistema Venta\bin\Debug\System.Buffers.dll
+C:\Users\Usuario\OneDrive\Escritorio\SISTEMA CLASE\SistemaNew\Sistema Venta\Sistema Venta\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Usuario\OneDrive\Escritorio\SISTEMA CLASE\SistemaNew\Sistema Venta\Sistema Venta\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Usuario\OneDrive\Escritorio\SISTEMA CLASE\SistemaNew\Sistema Venta\Sistema Venta\bin\Debug\System.IO.Pipelines.dll
+C:\Users\Usuario\OneDrive\Escritorio\SISTEMA CLASE\SistemaNew\Sistema Venta\Sistema Venta\bin\Debug\System.Memory.dll
+C:\Users\Usuario\OneDrive\Escritorio\SISTEMA CLASE\SistemaNew\Sistema Venta\Sistema Venta\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Usuario\OneDrive\Escritorio\SISTEMA CLASE\SistemaNew\Sistema Venta\Sistema Venta\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Usuario\OneDrive\Escritorio\SISTEMA CLASE\SistemaNew\Sistema Venta\Sistema Venta\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Usuario\OneDrive\Escritorio\SISTEMA CLASE\SistemaNew\Sistema Venta\Sistema Venta\bin\Debug\ZstdSharp.dll
+C:\Users\Usuario\OneDrive\Escritorio\SISTEMA CLASE\SistemaNew\Sistema Venta\Sistema Venta\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\Usuario\OneDrive\Escritorio\SISTEMA CLASE\SistemaNew\Sistema Venta\Sistema Venta\bin\Debug\Google.Protobuf.pdb
+C:\Users\Usuario\OneDrive\Escritorio\SISTEMA CLASE\SistemaNew\Sistema Venta\Sistema Venta\bin\Debug\Google.Protobuf.xml
+C:\Users\Usuario\OneDrive\Escritorio\SISTEMA CLASE\SistemaNew\Sistema Venta\Sistema Venta\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Usuario\OneDrive\Escritorio\SISTEMA CLASE\SistemaNew\Sistema Venta\Sistema Venta\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Usuario\OneDrive\Escritorio\SISTEMA CLASE\SistemaNew\Sistema Venta\Sistema Venta\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Usuario\OneDrive\Escritorio\SISTEMA CLASE\SistemaNew\Sistema Venta\Sistema Venta\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Usuario\OneDrive\Escritorio\SISTEMA CLASE\SistemaNew\Sistema Venta\Sistema Venta\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Usuario\OneDrive\Escritorio\SISTEMA CLASE\SistemaNew\Sistema Venta\Sistema Venta\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Usuario\OneDrive\Escritorio\SISTEMA CLASE\SistemaNew\Sistema Venta\Sistema Venta\bin\Debug\MySql.Data.xml
+C:\Users\Usuario\OneDrive\Escritorio\SISTEMA CLASE\SistemaNew\Sistema Venta\Sistema Venta\bin\Debug\MySqlConnector.xml
+C:\Users\Usuario\OneDrive\Escritorio\SISTEMA CLASE\SistemaNew\Sistema Venta\Sistema Venta\bin\Debug\System.Buffers.xml
+C:\Users\Usuario\OneDrive\Escritorio\SISTEMA CLASE\SistemaNew\Sistema Venta\Sistema Venta\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Usuario\OneDrive\Escritorio\SISTEMA CLASE\SistemaNew\Sistema Venta\Sistema Venta\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Usuario\OneDrive\Escritorio\SISTEMA CLASE\SistemaNew\Sistema Venta\Sistema Venta\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Usuario\OneDrive\Escritorio\SISTEMA CLASE\SistemaNew\Sistema Venta\Sistema Venta\bin\Debug\System.Memory.xml
+C:\Users\Usuario\OneDrive\Escritorio\SISTEMA CLASE\SistemaNew\Sistema Venta\Sistema Venta\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Usuario\OneDrive\Escritorio\SISTEMA CLASE\SistemaNew\Sistema Venta\Sistema Venta\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Usuario\OneDrive\Escritorio\SISTEMA CLASE\SistemaNew\Sistema Venta\Sistema Venta\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Usuario\OneDrive\Escritorio\SISTEMA CLASE\SistemaNew\Sistema Venta\Sistema Venta\obj\Debug\Sistema Venta.csproj.AssemblyReference.cache
+C:\Users\Usuario\OneDrive\Escritorio\SISTEMA CLASE\SistemaNew\Sistema Venta\Sistema Venta\obj\Debug\Sistema_Venta.Form1.resources
+C:\Users\Usuario\OneDrive\Escritorio\SISTEMA CLASE\SistemaNew\Sistema Venta\Sistema Venta\obj\Debug\Sistema_Venta.FrmClientes.resources
+C:\Users\Usuario\OneDrive\Escritorio\SISTEMA CLASE\SistemaNew\Sistema Venta\Sistema Venta\obj\Debug\Sistema_Venta.FrmEmpleados.resources
+C:\Users\Usuario\OneDrive\Escritorio\SISTEMA CLASE\SistemaNew\Sistema Venta\Sistema Venta\obj\Debug\Sistema_Venta.FrmProductos.resources
+C:\Users\Usuario\OneDrive\Escritorio\SISTEMA CLASE\SistemaNew\Sistema Venta\Sistema Venta\obj\Debug\Sistema_Venta.Properties.Resources.resources
+C:\Users\Usuario\OneDrive\Escritorio\SISTEMA CLASE\SistemaNew\Sistema Venta\Sistema Venta\obj\Debug\Sistema Venta.csproj.GenerateResource.cache
+C:\Users\Usuario\OneDrive\Escritorio\SISTEMA CLASE\SistemaNew\Sistema Venta\Sistema Venta\obj\Debug\Sistema Venta.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Escritorio\SISTEMA CLASE\SistemaNew\Sistema Venta\Sistema Venta\obj\Debug\Sistema .6461BCE9.Up2Date
+C:\Users\Usuario\OneDrive\Escritorio\SISTEMA CLASE\SistemaNew\Sistema Venta\Sistema Venta\obj\Debug\Sistema Venta.exe
+C:\Users\Usuario\OneDrive\Escritorio\SISTEMA CLASE\SistemaNew\Sistema Venta\Sistema Venta\obj\Debug\Sistema Venta.pdb

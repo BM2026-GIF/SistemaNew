@@ -1,25 +1,29 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Usuario\\Desktop\\SISTEMA CLASE\\SistemaNew\\Sistema Venta\\",
+  "WorkspaceRootPath": "C:\\Users\\Usuario\\OneDrive\\Escritorio\\SISTEMA CLASE\\SistemaNew\\Sistema Venta\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{001391B0-CDDE-4511-93D2-D022AC3A4738}|Sistema Venta\\Sistema Venta.csproj|c:\\users\\usuario\\desktop\\sistema clase\\sistemanew\\sistema venta\\sistema venta\\frmclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{001391B0-CDDE-4511-93D2-D022AC3A4738}|Sistema Venta\\Sistema Venta.csproj|c:\\users\\usuario\\onedrive\\escritorio\\sistema clase\\sistemanew\\sistema venta\\sistema venta\\frmclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{001391B0-CDDE-4511-93D2-D022AC3A4738}|Sistema Venta\\Sistema Venta.csproj|solutionrelative:sistema venta\\frmclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{001391B0-CDDE-4511-93D2-D022AC3A4738}|Sistema Venta\\Sistema Venta.csproj|C:\\Users\\Usuario\\OneDrive\\Escritorio\\SISTEMA CLASE\\SistemaNew\\Sistema Venta\\sistema venta\\frmclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{001391B0-CDDE-4511-93D2-D022AC3A4738}|Sistema Venta\\Sistema Venta.csproj|solutionrelative:sistema venta\\frmclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{001391B0-CDDE-4511-93D2-D022AC3A4738}|Sistema Venta\\Sistema Venta.csproj|C:\\Users\\Usuario\\Desktop\\SISTEMA CLASE\\SistemaNew\\Sistema Venta\\sistema venta\\frmproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{001391B0-CDDE-4511-93D2-D022AC3A4738}|Sistema Venta\\Sistema Venta.csproj|solutionrelative:sistema venta\\frmproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{001391B0-CDDE-4511-93D2-D022AC3A4738}|Sistema Venta\\Sistema Venta.csproj|C:\\Users\\Usuario\\OneDrive\\Escritorio\\SISTEMA CLASE\\SistemaNew\\Sistema Venta\\sistema venta\\conexionbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{001391B0-CDDE-4511-93D2-D022AC3A4738}|Sistema Venta\\Sistema Venta.csproj|solutionrelative:sistema venta\\conexionbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{001391B0-CDDE-4511-93D2-D022AC3A4738}|Sistema Venta\\Sistema Venta.csproj|C:\\Users\\Usuario\\Desktop\\SISTEMA CLASE\\SistemaNew\\Sistema Venta\\sistema venta\\frmempleados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{001391B0-CDDE-4511-93D2-D022AC3A4738}|Sistema Venta\\Sistema Venta.csproj|C:\\Users\\Usuario\\OneDrive\\Escritorio\\SISTEMA CLASE\\SistemaNew\\Sistema Venta\\sistema venta\\frmempleados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{001391B0-CDDE-4511-93D2-D022AC3A4738}|Sistema Venta\\Sistema Venta.csproj|solutionrelative:sistema venta\\frmempleados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{001391B0-CDDE-4511-93D2-D022AC3A4738}|Sistema Venta\\Sistema Venta.csproj|c:\\users\\usuario\\desktop\\sistema clase\\sistemanew\\sistema venta\\sistema venta\\frmproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{001391B0-CDDE-4511-93D2-D022AC3A4738}|Sistema Venta\\Sistema Venta.csproj|solutionrelative:sistema venta\\frmproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{001391B0-CDDE-4511-93D2-D022AC3A4738}|Sistema Venta\\Sistema Venta.csproj|C:\\Users\\Usuario\\OneDrive\\Escritorio\\SISTEMA CLASE\\SistemaNew\\Sistema Venta\\sistema venta\\frmproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{001391B0-CDDE-4511-93D2-D022AC3A4738}|Sistema Venta\\Sistema Venta.csproj|solutionrelative:sistema venta\\frmproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{001391B0-CDDE-4511-93D2-D022AC3A4738}|Sistema Venta\\Sistema Venta.csproj|C:\\Users\\Usuario\\Desktop\\SISTEMA CLASE\\SistemaNew\\Sistema Venta\\sistema venta\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{001391B0-CDDE-4511-93D2-D022AC3A4738}|Sistema Venta\\Sistema Venta.csproj|C:\\Users\\Usuario\\OneDrive\\Escritorio\\SISTEMA CLASE\\SistemaNew\\Sistema Venta\\sistema venta\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{001391B0-CDDE-4511-93D2-D022AC3A4738}|Sistema Venta\\Sistema Venta.csproj|solutionrelative:sistema venta\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -30,52 +34,63 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "FrmProductos.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\SISTEMA CLASE\\SistemaNew\\Sistema Venta\\Sistema Venta\\FrmProductos.cs",
-              "RelativeDocumentMoniker": "Sistema Venta\\FrmProductos.cs",
-              "ToolTip": "C:\\Users\\Usuario\\Desktop\\SISTEMA CLASE\\SistemaNew\\Sistema Venta\\Sistema Venta\\FrmProductos.cs",
-              "RelativeToolTip": "Sistema Venta\\FrmProductos.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAiwBUAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "FrmClientes.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\Escritorio\\SISTEMA CLASE\\SistemaNew\\Sistema Venta\\Sistema Venta\\FrmClientes.cs",
+              "RelativeDocumentMoniker": "Sistema Venta\\FrmClientes.cs",
+              "ToolTip": "C:\\Users\\Usuario\\OneDrive\\Escritorio\\SISTEMA CLASE\\SistemaNew\\Sistema Venta\\Sistema Venta\\FrmClientes.cs",
+              "RelativeToolTip": "Sistema Venta\\FrmClientes.cs",
+              "ViewState": "AgIAAFsAAAAAAAAAAIAwwGwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-22T15:41:20.145Z",
+              "WhenOpened": "2026-06-25T15:43:06.705Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "conexionBase.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\Escritorio\\SISTEMA CLASE\\SistemaNew\\Sistema Venta\\Sistema Venta\\conexionBase.cs",
+              "RelativeDocumentMoniker": "Sistema Venta\\conexionBase.cs",
+              "ToolTip": "C:\\Users\\Usuario\\OneDrive\\Escritorio\\SISTEMA CLASE\\SistemaNew\\Sistema Venta\\Sistema Venta\\conexionBase.cs",
+              "RelativeToolTip": "Sistema Venta\\conexionBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-25T15:18:51.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "FrmEmpleados.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\SISTEMA CLASE\\SistemaNew\\Sistema Venta\\Sistema Venta\\FrmEmpleados.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\Escritorio\\SISTEMA CLASE\\SistemaNew\\Sistema Venta\\Sistema Venta\\FrmEmpleados.cs",
               "RelativeDocumentMoniker": "Sistema Venta\\FrmEmpleados.cs",
               "ToolTip": "C:\\Users\\Usuario\\Desktop\\SISTEMA CLASE\\SistemaNew\\Sistema Venta\\Sistema Venta\\FrmEmpleados.cs [Dise\u00F1o]",
-              "RelativeToolTip": "Sistema Venta\\FrmEmpleados.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Desktop\\SISTEMA CLASE\\SistemaNew\\Sistema Venta\\Sistema Venta\\FrmEmpleados.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-17T15:42:31.457Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2026-06-17T15:42:31.457Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FrmProductos.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\Escritorio\\SISTEMA CLASE\\SistemaNew\\Sistema Venta\\Sistema Venta\\FrmProductos.cs",
+              "RelativeDocumentMoniker": "Sistema Venta\\FrmProductos.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\SISTEMA CLASE\\SistemaNew\\Sistema Venta\\Sistema Venta\\FrmProductos.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Desktop\\SISTEMA CLASE\\SistemaNew\\Sistema Venta\\Sistema Venta\\FrmProductos.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-17T15:23:20.734Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "FrmProductos.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\SISTEMA CLASE\\SistemaNew\\Sistema Venta\\Sistema Venta\\FrmProductos.cs",
-              "RelativeDocumentMoniker": "Sistema Venta\\FrmProductos.cs",
-              "ToolTip": "C:\\Users\\Usuario\\Desktop\\SISTEMA CLASE\\SistemaNew\\Sistema Venta\\Sistema Venta\\FrmProductos.cs [Dise\u00F1o]",
-              "RelativeToolTip": "Sistema Venta\\FrmProductos.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-17T15:23:20.734Z",
-              "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
               "Title": "FrmClientes.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\SISTEMA CLASE\\SistemaNew\\Sistema Venta\\Sistema Venta\\FrmClientes.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\Escritorio\\SISTEMA CLASE\\SistemaNew\\Sistema Venta\\Sistema Venta\\FrmClientes.cs",
               "RelativeDocumentMoniker": "Sistema Venta\\FrmClientes.cs",
-              "ToolTip": "C:\\Users\\Usuario\\Desktop\\SISTEMA CLASE\\SistemaNew\\Sistema Venta\\Sistema Venta\\FrmClientes.cs [Dise\u00F1o]",
+              "ToolTip": "C:\\Users\\Usuario\\OneDrive\\Escritorio\\SISTEMA CLASE\\SistemaNew\\Sistema Venta\\Sistema Venta\\FrmClientes.cs [Dise\u00F1o]",
               "RelativeToolTip": "Sistema Venta\\FrmClientes.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-17T15:21:14.795Z",
@@ -83,12 +98,12 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Form1.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\SISTEMA CLASE\\SistemaNew\\Sistema Venta\\Sistema Venta\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\Escritorio\\SISTEMA CLASE\\SistemaNew\\Sistema Venta\\Sistema Venta\\Form1.cs",
               "RelativeDocumentMoniker": "Sistema Venta\\Form1.cs",
               "ToolTip": "C:\\Users\\Usuario\\Desktop\\SISTEMA CLASE\\SistemaNew\\Sistema Venta\\Sistema Venta\\Form1.cs [Dise\u00F1o]",
-              "RelativeToolTip": "Sistema Venta\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Desktop\\SISTEMA CLASE\\SistemaNew\\Sistema Venta\\Sistema Venta\\Form1.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-17T14:51:27.687Z"
             }
