@@ -25,18 +25,19 @@ namespace Sistema_Venta
 
         private void btnGuardar_Click(object sender, EventArgs e)
         {
+           
 
             string conexion = "server=localhost; database=pos; user=root; password=Yesicaespinal2003;";
 
             try
             {
-                using (MySqlConnection con = new MySqlConnection(conexion))
+                using (MySqlConnection conn = new MySqlConnection(conexion))
                 {
-                    con.Open();
+                    conn.Open();
 
                     string consulta = "INSERT INTO clientes (nombre, telefono, correo, direccion) VALUES (@nombre, @telefono, @correo, @direccion)";
 
-                    using (MySqlCommand cmd = new MySqlCommand(consulta, con))
+                    using (MySqlCommand cmd = new MySqlCommand(consulta, conn))
                     {
                         cmd.Parameters.AddWithValue("@nombre", txtNombre.Text);
                         cmd.Parameters.AddWithValue("@telefono", txtTelefono.Text);
@@ -46,6 +47,7 @@ namespace Sistema_Venta
                         cmd.ExecuteNonQuery();
 
                         MessageBox.Show("GUARDADO EXITOSAMENTE");
+                                 
 
                         txtNombre.Clear();
                         txtTelefono.Clear();
@@ -59,8 +61,10 @@ namespace Sistema_Venta
                 MessageBox.Show("Error al guardar: " + ex.Message);
             }
 
-
+           
         }
+
+      
 
         private void btnEditar_Click(object sender, EventArgs e)
         {
@@ -91,11 +95,15 @@ namespace Sistema_Venta
 
                 }
             }
-            catch(Exception ex)
+            catch (Exception ex)
             {
                 MessageBox.Show("Error al guardar: " + ex.Message);
             }
-         }
+
+
+        }
+
+
 
         private void FrmClientes_Load(object sender, EventArgs e)
         {
